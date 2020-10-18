@@ -19,3 +19,5 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
+
+A licensing agreement is a legal contract between two parties, known as the licensor and the licensee. In a typical licensing agreement, the licensor grants the licensee the right to produce and sell goods, apply a brand name or trademark, or use patented technology owned by the licensor.
